@@ -1,26 +1,8 @@
-194.127.193.240,50791,SG,Leaseweb Asia
-168.138.181.188,61731,SG,Oracle Cloud
-146.235.19.79,28983,SG,Oracle Cloud
-138.2.101.213,15204,SG,Oracle Cloud
-152.69.220.136,53076,SG,Oracle Cloud
-138.2.90.127,55555,SG,Oracle Cloud
-51.79.158.126,443,SG,OVH Hosting
-140.245.34.185,59320,SG,Oracle Cloud
-213.35.125.129,6434,SG,Oracle Cloud
 64.49.14.41,2053,SG,Latitude-sh
-194.36.178.36,2053,SG,Neapol Group Ltd
-168.138.165.174,443,SG,Oracle Cloud
-43.156.253.94,443,SG,Tencent cloud computing
-43.128.95.84,38091,SG,Tencent cloud computing
-47.236.86.17,49257,SG,Alibaba
-160.22.79.174,443,SG,Onidel
-8.222.178.214,6666,SG,Alibaba
-194.127.193.124,24467,SG,Leaseweb Asia
-47.236.22.194,52324,SG,Alibaba
-138.2.100.221,26621,SG,Oracle Cloud
-8.219.59.208,11178,SG,Alibaba
+138.2.90.127,55555,SG,Oracle Cloud
 138.2.75.219,39341,SG,Oracle Cloud
-168.138.171.70,23280,SG,Oracle Cloud
-129.150.50.21,44009,SG,Oracle Cloud
-68.183.179.5,2053,SG,Digital Ocean
-138.2.81.243,45319,SG,Oracle Cloud
+47.236.22.194,52324,SG,Alibaba
+152.69.220.136,53076,SG,Oracle Cloud
+43.128.95.84,38091,SG,Tencent cloud computing
+138.2.101.213,15204,SG,Oracle Cloud
+8.222.178.214,6666,SG,Alibaba
