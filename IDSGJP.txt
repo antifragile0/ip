@@ -1,20 +1,16 @@
-138.2.75.219,39341,SG,Oracle Cloud
-64.49.14.41,2053,SG,Latitude-sh
-138.2.90.127,55555,SG,Oracle Cloud
-138.2.75.219,39341,SG,Oracle Cloud
-64.49.14.41,2053,SG,Latitude-sh
-138.2.90.127,55555,SG,Oracle Cloud
-146.190.111.165,443,SG,Digitalocean LLC
-172.232.237.91,587,SG,Akamai Technologies Inc
-172.232.237.112,2053,ID,Akamai TechnologieS Inc
 103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+146.190.111.165,443,SG,Digitalocean LLC
+138.2.90.127,55555,SG,Oracle Cloud
+64.49.14.41,2053,SG,Latitude-sh
+172.232.236.166,2096,ID,Akamai Technologies Inc
+172.232.237.91,587,SG,Akamai Technologies Inc
+138.2.90.127,55555,SG,Oracle Cloud
+5.34.176.119,81,SG,GREEN FLOID LLC
+172.232.237.31,587,ID,Akamai Technologies
+138.2.75.219,39341,SG,Oracle Cloud
+138.2.75.219,39341,SG,Oracle Cloud
+64.49.14.41,2053,SG,Latitude-sh
+35.219.15.90,443,ID,Google Asia Pacific Pte
+172.232.237.112,2053,ID,Akamai TechnologieS Inc
 43.218.77.16,1443,ID,Amazon.com Inc
 36.95.152.58,12137,ID,Telekomunikasi Indonesia
-35.219.15.90,443,ID,Google Asia Pacific Pte
-8.215.196.18,587,ID,Alibaba us Technology Co
-172.232.237.31,587,ID,Akamai Technologies
-5.34.176.119,81,SG,GREEN FLOID LLC
-203.194.112.119,2053,ID,Rumahweb
-203.194.112.119,8443,ID,Rumahweb
-172.232.236.166,2096,ID,Akamai Technologies Inc
-103.168.146.169,20132,ID,Pt Herza Digital Indonesia
